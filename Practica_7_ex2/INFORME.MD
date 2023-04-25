@@ -25,7 +25,7 @@ Queremos reproducir el archivo WAVE que mencioné al principio de este tutorial 
 
 ![](p7.4.png)
 
-### **Cabeccera del código**
+### **Cabecera del código**
 Primero de todo se definien las librerias:
 #include "Audio.h" incluye la biblioteca de Audio, que es necesaria para reproducir archivos de audio.
 #include "SD.h"  incluye la biblioteca SD, que se utiliza para acceder a la tarjeta SD.
